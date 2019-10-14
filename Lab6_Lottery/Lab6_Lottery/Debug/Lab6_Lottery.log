@@ -1,0 +1,3 @@
+﻿  lottery.cpp
+c:\users\zach\source\repos\lab6_lottery\lab6_lottery\lottery.cpp(56): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab6_Lottery.vcxproj -> C:\Users\Zach\source\repos\Lab6_Lottery\Debug\Lab6_Lottery.exe

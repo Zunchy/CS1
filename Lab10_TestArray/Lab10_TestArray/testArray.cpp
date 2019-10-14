@@ -1,0 +1,51 @@
+// tests variable size array implementation
+// Mikhail Nesterenko
+// 10/22/2014
+
+#include "varArray.h"
+#include <iostream>
+
+using std::cout; using std::cin; using std::endl;
+
+
+
+int main() {
+
+	int size = 5;  // setting array size
+	double *a = new double[size]; // allocating dynamic array
+
+	// initializing array
+	a[0] = 0.; a[1] = 10.; a[2] = 20.; a[3] = 30.; a[4] = 40.;
+
+	output(a, size); // printing out the array
+
+	
+	// asking user to input a number
+	cout << endl << "Input number to search for: ";
+	double number;
+	cin >> number;
+
+	// checking if the input number is in the array
+	int index = check(a, number, size);
+	if (index == -1)
+	   cout << endl << "The number is not in the array" << endl;
+	else
+	   cout << endl << "The number is at position " << index << endl;
+
+	
+	// adding a new number to array
+	addNumber(a, 55.5, size);
+	cout << endl << "Array after adding a new number: "; output(a, size);
+
+	// adding a duplicate number to array
+	// the function should not add it
+	addNumber(a, 20., size);
+	cout << endl << "Array after adding existing number: "; output(a, size);
+
+	removeNumber(a, 10., size);
+	cout << endl << "Array after removing number: "; output(a, size);
+
+
+	delete [] a; // deallocating the array
+	
+}

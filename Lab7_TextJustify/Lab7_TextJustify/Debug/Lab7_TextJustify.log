@@ -1,0 +1,4 @@
+﻿  textJustify.cpp
+c:\users\zach\source\repos\lab7_textjustify\lab7_textjustify\textjustify.cpp(66): warning C4018: '<': signed/unsigned mismatch
+c:\users\zach\source\repos\lab7_textjustify\lab7_textjustify\textjustify.cpp(85): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab7_TextJustify.vcxproj -> C:\Users\Zach\source\repos\Lab7_TextJustify\Debug\Lab7_TextJustify.exe

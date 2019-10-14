@@ -1,0 +1,3 @@
+﻿  battleship.cpp
+c:\users\zach\source\repos\lab12_multarrays\lab12_multarrays\battleship.cpp(78): warning C4715: 'getX': not all control paths return a value
+  Lab12_MultArrays.vcxproj -> C:\Users\Zach\source\repos\Lab12_MultArrays\Debug\Lab12_MultArrays.exe

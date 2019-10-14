@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab5_BMR", "Lab5_BMR\Lab5_BMR.vcxproj", "{FFFBE2D3-EFF0-425D-8D02-F657B5624462}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFFBE2D3-EFF0-425D-8D02-F657B5624462}.Debug|x64.ActiveCfg = Debug|x64
+		{FFFBE2D3-EFF0-425D-8D02-F657B5624462}.Debug|x64.Build.0 = Debug|x64
+		{FFFBE2D3-EFF0-425D-8D02-F657B5624462}.Debug|x86.ActiveCfg = Debug|Win32
+		{FFFBE2D3-EFF0-425D-8D02-F657B5624462}.Debug|x86.Build.0 = Debug|Win32
+		{FFFBE2D3-EFF0-425D-8D02-F657B5624462}.Release|x64.ActiveCfg = Release|x64
+		{FFFBE2D3-EFF0-425D-8D02-F657B5624462}.Release|x64.Build.0 = Release|x64
+		{FFFBE2D3-EFF0-425D-8D02-F657B5624462}.Release|x86.ActiveCfg = Release|Win32
+		{FFFBE2D3-EFF0-425D-8D02-F657B5624462}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1848B98C-5530-422D-A528-4923EC71B16E}
+	EndGlobalSection
+EndGlobal

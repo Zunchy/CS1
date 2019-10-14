@@ -1,0 +1,4 @@
+﻿  justify.cpp
+c:\users\zach\source\repos\lab7_linejustify\lab7_linejustify\justify.cpp(50): warning C4018: '<': signed/unsigned mismatch
+c:\users\zach\source\repos\lab7_linejustify\lab7_linejustify\justify.cpp(69): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab7_LineJustify.vcxproj -> C:\Users\Zach\source\repos\Lab7_LineJustify\Debug\Lab7_LineJustify.exe

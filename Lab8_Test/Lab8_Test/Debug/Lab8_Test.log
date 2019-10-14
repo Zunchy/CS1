@@ -1,0 +1,5 @@
+﻿  battleship.cpp
+  testShips.cpp
+c:\users\zach\source\repos\lab8_test\lab8_test\testships.cpp(12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Lab8_Test.vcxproj -> C:\Users\Zach\source\repos\Lab8_Test\Debug\Lab8_Test.exe

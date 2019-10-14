@@ -1,0 +1,3 @@
+﻿  testShips.cpp
+c:\users\zach\source\repos\lab9_test\lab9_test\testships.cpp(14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab9_Test.vcxproj -> C:\Users\Zach\source\repos\Lab9_Test\Debug\Lab9_Test.exe
